@@ -1,9 +1,9 @@
 /********** Template CSS **********/
 :root {
-    --primary: #FDA12B;
-    --secondary: #8D9297;
-    --light: #F8F9FA;
-    --dark: #182333;
+    --primary: #673987;
+    --secondary: #5a98d1;
+    --light: #419d78;
+    --dark: #042c74;
 }
 
 .back-to-top {
@@ -185,7 +185,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/carousel-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/6650.jpeg) center center no-repeat;
     background-size: cover;
 }
 
@@ -250,7 +250,7 @@
 
 /*** Appointment ***/
 .appointment {
-    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/carousel-2.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .65), rgba(0, 0, 0, .65)), url(../img/9904.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -314,6 +314,8 @@
 /*** Footer ***/
 .footer {
     color: #999999;
+
+
 }
 
 .footer .btn.btn-link {
